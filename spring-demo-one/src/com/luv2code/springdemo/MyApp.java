@@ -8,6 +8,7 @@ public class MyApp {
 		
 		System.out.println(theCoach.getDailyWorkout());
 		
+				
 	}
 
 }
